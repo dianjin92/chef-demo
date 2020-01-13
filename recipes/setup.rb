@@ -1,7 +1,7 @@
 package 'vim-enhanced'
 package 'nano'
 package 'ntp'
-
+package 'emacs'
 
 package 'tree' do
   action :install
